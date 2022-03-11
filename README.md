@@ -1,3 +1,1 @@
-Check Out https://ujaineel.github.io to learn more about me.
-
-The Discord Event/Assignment Scheduler can be viewed at https://discord-event-scheduler.herokuapp.com
+Check Out https://portfolio-jaineel-upadhyay.herokuapp.com to learn more about me.
